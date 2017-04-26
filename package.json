@@ -1,6 +1,6 @@
 {
   "name": "vapi.is",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "main": "is.js",
   "author": "Jonathan Delgado <hi@jon.soy> (https://jon.soy)",
   "license": "MIT",
